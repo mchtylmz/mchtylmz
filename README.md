@@ -1,7 +1,15 @@
 ### Hi there 👋
 
+My name is Mucahit YILMAZ, I'm a PHP Developer.
+
+### 📫 How to reach me
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mmucahityilmazz/)
+[![Hackerrank Badge](https://img.shields.io/badge/hackerrank-orange?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/mchtylmz)
+
+![](https://komarev.com/ghpvc/?username=mchtylmz&color=brightgreen&style=flat-square)
+
 <!--
-**mchtylmz/mchtylmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
