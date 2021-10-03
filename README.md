@@ -12,6 +12,8 @@ My name is Mucahit YILMAZ, I'm a PHP Developer.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mchtylmz&show_icons=true&locale=en&layout=compact" alt="mchtylmz" /></p>
 
+<br><br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mchtylmz&" alt="mchtylmz" /></p>
 <!--
 
