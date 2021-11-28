@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  👋
 
 My name is Mucahit YILMAZ, I'm a PHP Developer.
 
