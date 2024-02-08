@@ -23,5 +23,8 @@ My name is Mucahit, I'm a PHP Developer.
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mchtylmz&show_icons=true&locale=en&layout=compact" alt="mchtylmz" /></p>
 
+<p><a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a></p>
+<br>
+<p><img src="https://myreadme.vercel.app/api/embed/mchtylmz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
 <br><br>
-
+            
