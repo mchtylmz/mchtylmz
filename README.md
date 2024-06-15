@@ -15,7 +15,6 @@ My name is Mucahit, I'm a PHP Developer.
      <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="Laravel" width="125" height="55"/> 
      <img src="https://global.discourse-cdn.com/standard14/uploads/slimframework/original/1X/1dfd55d6eaf3d2094a71ca1399db7c23bde8060a.png" alt="slimframework" width="55" height="55"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="55" height="55"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="apache" width="55" height="55"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="55" height="55"/> 
   <img src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="mssql" width="55" height="55"/> 
   <img src="https://cordova.apache.org/static/img/cordova_bot.png" alt="cordova" width="55" height="55"/> 
