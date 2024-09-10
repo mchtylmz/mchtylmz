@@ -19,7 +19,7 @@ My name is Mucahit, I'm a PHP Developer.
   <img src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="mssql" width="55" height="55"/> 
   <img src="https://cordova.apache.org/static/img/cordova_bot.png" alt="cordova" width="55" height="55"/> 
   <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="mongo" width="55" height="55"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/2560px-Elasticsearch_logo.svg.png" alt="Elasticsearch" width="270" height="55"/> 
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-elastic-search-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029971.png" alt="Elasticsearch" width="55" height="55"/> 
  </p>
 
   <br>
