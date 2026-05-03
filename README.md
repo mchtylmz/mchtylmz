@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋 I'm Mucahit Yılmaz</h1>
-<h3 align="center">PHP & Laravel Developer</h3>
+<h3 align="center">Senior PHP & Laravel Developer | Backend Specialist</h3>
 
 <p align="center">
-🚀 I build scalable backend systems, e-commerce platforms, and data-driven applications.
+🚀 I design and build scalable backend systems, high-performance APIs, and e-commerce platforms.
+</p>
+
+<p align="center">
+🌍 Open to remote opportunities
 </p>
 
 <p align="center">
@@ -16,31 +20,47 @@
 
 ---
 
-### 🧠 Tech Stack
+### 💼 What I Bring
 
-**Backend:** PHP (Laravel, Slim), REST APIs
-**Database:** MySQL, MSSQL, MongoDB
-**Tools:** Docker, Nginx, Elasticsearch
-**Other:** Apache Cordova
+* Strong expertise in **PHP & Laravel ecosystem**
+* Experience building **production-level backend systems**
+* Focus on **performance, scalability, and clean architecture**
+* Ability to **analyze business needs and turn them into technical solutions**
 
 ---
 
-### 📌 What I Do
+### ⚙️ Core Skills
 
-* Build scalable and maintainable backend architectures
+* **Backend:** PHP (Laravel, Slim), REST API Development
+* **Database:** MySQL, MSSQL, MongoDB
+* **DevOps:** Docker, Nginx
+* **Search & Data:** Elasticsearch
+* **Other:** Apache Cordova
+
+---
+
+### 🚀 What I Do
+
+* Build scalable backend architectures from scratch
 * Develop high-performance RESTful APIs
-* Create advanced e-commerce systems (campaigns, discounts, rule engines)
-* Design database structures for large-scale applications
-* Optimize queries and improve system performance
+* Design complex **e-commerce systems (campaigns, discount engines)**
+* Optimize database queries and system performance
+* Integrate external services (payment systems, e-invoice APIs)
 * Build data analysis & reporting tools
-* Integrate third-party services (payment, e-invoice, APIs)
-* Work with Dockerized development environments
-* Develop automation systems to reduce manual work
-* Maintain and refactor legacy systems
+* Refactor and improve legacy systems
+* Automate workflows to increase efficiency
 
 ---
 
-### ⚡ Activity & Contributions
+### 🧩 Selected Work
+
+* 🛒 E-commerce platform with advanced campaign engine
+* 📊 Sales analysis system for marketplace data
+* 🧾 e-Invoice validation & integration system
+
+---
+
+### ⚡ GitHub Activity
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=mchtylmz&theme=tokyonight" />
@@ -55,3 +75,9 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mchtylmz&color=brightgreen" />
 </p>
+
+---
+
+### 💡 Motto
+
+> I don’t just write code — I build systems that solve real business problems.
