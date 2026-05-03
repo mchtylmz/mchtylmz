@@ -1,27 +1,57 @@
-### Hi  👋
+<h1 align="center">Hi 👋 I'm Mucahit Yılmaz</h1>
+<h3 align="center">PHP & Laravel Developer</h3>
 
-My name is Mucahit, I'm a PHP Developer.
+<p align="center">
+🚀 I build scalable backend systems, e-commerce platforms, and data-driven applications.
+</p>
 
-### 📫 How to reach me
+<p align="center">
+<a href="https://www.linkedin.com/in/mmucahityilmazz/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://www.hackerrank.com/mchtylmz">
+<img src="https://img.shields.io/badge/HackerRank-orange?style=for-the-badge&logo=hackerrank" />
+</a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mmucahityilmazz/)
-[![Hackerrank Badge](https://img.shields.io/badge/hackerrank-orange?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/mchtylmz)
+---
 
-![](https://komarev.com/ghpvc/?username=mchtylmz&color=brightgreen&style=flat-square)
+### 🧠 Tech Stack
 
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="55" height="55"/> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="Php" width="55" height="55"/> 
-     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="Laravel" width="125" height="55"/> 
-     <img src="https://global.discourse-cdn.com/standard14/uploads/slimframework/original/1X/1dfd55d6eaf3d2094a71ca1399db7c23bde8060a.png" alt="slimframework" width="55" height="55"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="55" height="55"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="55" height="55"/> 
-  <img src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="mssql" width="55" height="55"/> 
-  <img src="https://cordova.apache.org/static/img/cordova_bot.png" alt="cordova" width="55" height="55"/> 
-  <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="mongo" width="55" height="55"/> 
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-elastic-search-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029971.png" alt="Elasticsearch" width="55" height="55"/> 
- </p>
+**Backend:** PHP (Laravel, Slim), REST APIs
+**Database:** MySQL, MSSQL, MongoDB
+**Tools:** Docker, Nginx, Elasticsearch
+**Other:** Apache Cordova
 
-  <br>
+---
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mchtylmz&show_icons=true&locale=en&layout=compact" alt="mchtylmz" /></p>
+### 📌 What I Do
+
+* Build scalable and maintainable backend architectures
+* Develop high-performance RESTful APIs
+* Create advanced e-commerce systems (campaigns, discounts, rule engines)
+* Design database structures for large-scale applications
+* Optimize queries and improve system performance
+* Build data analysis & reporting tools
+* Integrate third-party services (payment, e-invoice, APIs)
+* Work with Dockerized development environments
+* Develop automation systems to reduce manual work
+* Maintain and refactor legacy systems
+
+---
+
+### ⚡ Activity & Contributions
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mchtylmz&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mchtylmz&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mchtylmz&color=brightgreen" />
+</p>
